@@ -2,8 +2,9 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="center">
-  <img src="/mnt/data/1_yw0TnheAGN-LPneDaTlaxw.gif" alt="Rajesh Patil" width="600" />
+  <img src="https://raw.githubusercontent.com/RajeshPatil2/README/main/1_yw0TnheAGN-LPneDaTlaxw.gif" alt="Rajesh Patil" width="600" />
 </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeshpatil2&label=Profile%20views&color=0e75b6&style=flat" alt="rajeshpatil2" /> </p>
 
