@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **advanced Spring Boot integrations, performance optimization, or any backend-related challenges**
 
-- 📝 I regularly write articles on [backend development, tech trends, and programming best practices](backend development, tech trends, and programming best practices)
+- 📝 I regularly write articles on backend development, tech trends, and programming best practices
 
 - ❓ Ask me about **Spring Boot, Kafka, PostgreSQL, and backend development**
 
