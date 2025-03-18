@@ -20,9 +20,9 @@
 
 - ❓ Ask me about **Spring Boot, Kafka, PostgreSQL, and Backend Development**
 
-- 💌 How to reach me: **rajeshpatil2846@gmail.com**
+- 💌 How to reach me: **rajeshpatil4301@gmail.com**
 
-- 📜 Know about my experiences: [My Resume](https://orange-franni-70.tiiny.site/)
+- 📜 Know about my experiences: [My Resume] (https://drive.google.com/file/d/142z8SkVQtBxqHlfd3xVf-vUpq3EIuYq1/view?usp=drivesdk)
 
 - ⚡ Fun fact: **I love problem-solving and coding challenges!**
 
