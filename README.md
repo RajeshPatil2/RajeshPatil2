@@ -46,8 +46,4 @@
   <a href="https://www.mysql.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rajeshpatil2&show_icons=true&locale=en" alt="rajeshpatil2" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshpatil2&layout=compact" alt="rajeshpatil2" />
-</p>
+
