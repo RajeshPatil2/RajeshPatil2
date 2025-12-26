@@ -1,7 +1,8 @@
-<p align="center">
-  <img width="100%"
+<p align="right">
+  <img height="280"
   src="https://camo.githubusercontent.com/d431d106a34c9bc50ca099be51c0a53229969bf7a38338cadc0446b654e4bedc/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f666f726d61743a776562702f312a797730546e686541474e2d4c506e654461546c6178772e676966"/>
 </p>
+
 
 
 <h2 align="left">Hi 👋, I'm Rajesh Patil</h2>
