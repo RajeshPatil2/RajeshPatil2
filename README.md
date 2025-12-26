@@ -1,85 +1,82 @@
-<h1 align="center">Hi 👋, I'm Rajesh Patil</h1>
-<h3 align="center">A passionate Full-Stack & Backend Developer from India</h3>
+<h2 align="left">Hi 👋, I'm Rajesh Patil</h2>
+<h4 align="left">
+A passionate Full-Stack & Backend Developer from India 🇮🇳
+</h4>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajeshpatil2&label=Profile%20views&color=0e75b6&style=flat" alt="rajeshpatil2" />
-</p>
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajeshpatil2&show_icons=true&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeshpatil2&layout=compact&theme=dracula&hide_border=false" height="150" />
+</div>
 
-## 💼 What I Do
+###
 
-🔹 **Backend Development**  
-Java, Spring Boot, Microservices, REST APIs  
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
-🔹 **Frontend Development**  
-Angular, HTML, CSS, Bootstrap  
+###
 
-🔹 **AI & ML Projects**  
-Loan Eligibility Agent, NLP Chatbot, AI-Agent Flows  
+<h3>💼 What I Do</h3>
 
-🔹 **Database & ORM**  
-MySQL, PostgreSQL, Hibernate, JPA  
+- 🔹 **Backend Development:** Java, Spring Boot, Microservices, REST APIs  
+- 🔹 **Frontend:** Angular, HTML, CSS, Bootstrap  
+- 🔹 **AI & ML:** Loan Eligibility Agent, NLP Chatbot, AI-Agent Flows  
+- 🔹 **Database:** MySQL, PostgreSQL, Hibernate / JPA  
+- 🔹 **Technical & Customer Support:** Troubleshooting, SQL, Postman, Jira  
+- 🔹 **Manual Testing:** Functional, Integration, Regression, Bug Reporting  
 
-🔹 **Technical & Customer Support**  
-Issue troubleshooting, SQL queries, Postman, Jira  
+###
 
-🔹 **Manual Testing**  
-Functional, Integration, Regression Testing, Test Cases, Bug Reporting  
+<h3>🚀 Projects</h3>
 
----
+- 💻 **Car Loan Application** – Spring Boot Microservices, Kafka, Hibernate, MySQL  
+- 🤖 **AI Loan Eligibility Agent** – ML, Java, Spring Boot, MySQL  
+- 💬 **AI Customer Support Chatbot** – NLP, AI-Agent, REST APIs  
+- 🛠 **Spring Boot Projects** – CRUD, Security, Swagger, Validation, Scheduler  
+- ☁️ **Microservices** – Eureka, API Gateway, Zuul, Student & Employee Services  
 
-## 🚀 Projects
+###
 
-💻 **Car Loan Application**  
-Spring Boot Microservices, Kafka, Hibernate, MySQL  
+<h3>🛠 Languages & Tools</h3>
 
-🤖 **AI Loan Eligibility Recommendation Agent**  
-Machine Learning, Java, Spring Boot, MySQL  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30"/>
+</div>
 
-💬 **AI Customer Support Chatbot**  
-NLP, AI-Agent, REST APIs  
+###
 
-🛠 **Spring Boot Projects**  
-CRUD, Security, Swagger, Validation, Scheduler, Caching  
+<h3>🌐 Connect with Me</h3>
 
-☁️ **Spring Boot Microservices**  
-Eureka Server, API Gateway, Zuul, Student & Employee Services  
+<div align="left">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
+  </a>
+</div>
 
----
+###
 
-## 🌐 Connect with Me
+<br clear="both">
 
-<p align="left">
-<a href="https://www.linkedin.com/in/rajesh-patil-b469142b4/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://instagram.com/rajeshpatil_32" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
-</p>
-
----
-
-## 🛠 Languages & Tools
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
-</p>
-
----
-
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeshpatil2&show_icons=true&layout=compact"/>
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajeshpatil2&show_icons=true"/>
-</p>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
