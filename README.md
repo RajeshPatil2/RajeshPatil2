@@ -69,8 +69,5 @@
   alt="Backend Developer Working"/>
 </p>
 
-<p align="center">
-  <b>💻 Backend Developer | APIs • Microservices • Databases</b>
-</p>
 
 
