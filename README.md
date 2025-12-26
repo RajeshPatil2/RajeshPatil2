@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/rajeshpatil2/rajeshpatil2/main/full.gif" />
+<img align="right" height="150" src="full.gif" />
 
 
 ---
