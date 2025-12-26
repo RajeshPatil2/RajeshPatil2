@@ -3,19 +3,8 @@
 
 ###
 
-<img align="right" height="180" 
-src="https://raw.githubusercontent.com/rajput2107/rajput2107/main/Assets/Developer.gif"/>
-
-
-
-
-
-
-###
-
-<img align="right" height="150" src="full.gif" />
-
-
+<img align="right" height="180"
+src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 ---
 
 ## 💼 What I Do
