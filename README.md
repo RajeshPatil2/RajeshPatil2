@@ -3,10 +3,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RajeshPatil2&show_icons=true&theme=dracula&cache_seconds=1800" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajeshPatil2&layout=compact&theme=dracula&cache_seconds=1800" height="150" />
-</div>
+<img align="right" height="180"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
 
 
 ###
