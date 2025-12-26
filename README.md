@@ -1,7 +1,6 @@
 
-<img align="right" height="320" src="GIF_URL"/>
-
-
+<img align="right" height="280"
+src="https://camo.githubusercontent.com/d431d106a34c9bc50ca099be51c0a53229969bf7a38338cadc0446b654e4bedc/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f666f726d61743a776562702f312a797730546e686541474e2d4c506e654461546c6178772e676966"/>
 
 <h2 align="left">Hi 👋, I'm Rajesh Patil</h2>
 <h4 align="left">A passionate Full-Stack & Backend Developer from India 🇮🇳</h4>
@@ -42,8 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kafka/kafka-original.svg" height="30"/>
+ 
 </div>
 
 ---
