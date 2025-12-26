@@ -6,10 +6,6 @@ src="https://camo.githubusercontent.com/d431d106a34c9bc50ca099be51c0a53229969bf7
 <h2 align="left">Hi 👋, I'm Rajesh Patil</h2>
 <h4 align="left">A passionate Full-Stack & Backend Developer from India 🇮🇳</h4>
 
-###
-<img align="right" height="180"
-src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
-
 ---
 
 ## 💼 What I Do
