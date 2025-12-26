@@ -4,7 +4,8 @@
 ###
 
 <img align="right" height="180"
-src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+
 ---
 
 ## 💼 What I Do
