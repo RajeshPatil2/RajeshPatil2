@@ -63,13 +63,14 @@
   </a>
 </div>
 
-
-<hr>
-
 <p align="center">
   <img height="260"
-  src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif"
-  alt="Coding Backend Developer"/>
+  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
+  alt="Backend Developer Working"/>
 </p>
->
+
+<p align="center">
+  <b>💻 Backend Developer | APIs • Microservices • Databases</b>
+</p>
+
 
