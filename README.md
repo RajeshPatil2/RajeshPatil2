@@ -56,11 +56,7 @@ src="https://camo.githubusercontent.com/d431d106a34c9bc50ca099be51c0a53229969bf7
   <a href="https://www.instagram.com" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href=rajeshpatil2846@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
   </a>
 </div>
-
----
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
