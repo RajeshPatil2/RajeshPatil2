@@ -1,38 +1,27 @@
 <p align="center">
-  <a href="https://leetcode.com/u/RajeshPatil2/">
-    <img src="https://img.shields.io/badge/LeetCode-RajeshPatil2-orange?style=for-the-badge&logo=leetcode"/>
+  <a href="https://leetcode.com/u/RajeshPatil2/" target="_blank">
+    <img width="90%" src="https://camo.githubusercontent.com/d431d106a34c9bc50ca099be51c0a53229969bf7a38338cadc0446b654e4bedc/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f666f726d61743a776562702f312a797730546e686541474e2d4c506e654461546c6178772e676966"/>
   </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Rajesh Patil</h1>
-<h3 align="center">Backend & Full-Stack Developer | Java | Spring Boot | Microservices</h3>
-
-<p align="center">
-  📍 India 🇮🇳 | 💼 Software Developer | 🚀 Microservices Enthusiast
-</p>
+<h2 align="center">Hi 👋, I'm Rajesh Patil</h2>
+<h4 align="center">Backend & Full-Stack Developer | Java • Spring Boot • Microservices</h4>
 
 ---
 
-## 👨‍💻 Professional Summary
-
-Backend-focused **Full-Stack Developer** with **2.5+ years of experience** in building **scalable, production-ready applications** using **Java, Spring Boot, and Microservices architecture**.
-
-Strong hands-on experience in:
-- RESTful APIs
-- API Gateway & Feign Client
-- JWT-based authentication
-- Database-driven systems
-- Real-world business workflows (Order, Payment, Notification)
+## 👨‍💻 About Me
+- Backend-focused developer with strong fundamentals in **Java & Spring Boot**
+- Hands-on experience building **real-world microservices projects**
+- Interested in **Microservices, REST APIs, Security, and System Design**
+- Comfortable with **end-to-end backend flow** (Controller → Service → DB → Integration)
 
 ---
 
-## 🧠 Core Skills
-
+## 🛠 Tech Stack
 **Backend**
-- Java, Spring Boot, Spring MVC
-- Spring Security, JWT
-- REST APIs, Microservices
-- Feign Client, API Gateway
+- Java, Spring Boot, Spring Security
+- REST APIs, Microservices Architecture
+- JWT Authentication, Validation, Exception Handling
 
 **Frontend**
 - Angular, HTML, CSS, Bootstrap
@@ -41,91 +30,81 @@ Strong hands-on experience in:
 - MySQL, PostgreSQL
 - Hibernate / JPA
 
-**Tools & Platforms**
+**Tools**
 - Git & GitHub
 - Postman
 - Maven
-- Jira
-- Kafka (Basics)
+- IntelliJ / Eclipse
 
 ---
 
-## 🚀 Key Projects
+## 🚀 Major Projects
 
-### 🍔 Zomato-Like Food Delivery System (Microservices)
-**Architecture:** Spring Boot Microservices  
+### 🍔 Zomato-Style Food Delivery Backend (Microservices)
+**Tech:** Spring Boot, REST APIs, MySQL, Feign Client, API Gateway  
 
-**Implemented Services:**
-- ✅ Order Service (Core business logic)
-- 🔜 User Service
-- 🔜 Restaurant Service
-- 🔜 Payment Service
-- 🔜 Delivery Service
-- 🔜 Notification Service
-- ✅ API Gateway (Routing & Central Entry Point)
+✔ Implemented **Order Service** with complete business flow  
+✔ Internal service-to-service communication using **Feign Client**  
+✔ API Gateway used for **external client routing**  
+✔ Clean layered architecture (Controller → Service → Repository)
 
-**Key Features:**
-- RESTful communication
-- Feign Client for internal service calls
-- API Gateway for client-side routing
-- MySQL database per service
-- Clean layered architecture (Controller, Service, Repository)
+**Microservices Structure**
+- User Service  
+- Restaurant Service  
+- **Order Service (Implemented)**  
+- Delivery Service  
+- Payment Service  
+- Notification Service  
+- API Gateway  
+
+📌 Focus: Backend logic, integration, scalability
 
 ---
 
-### 🚗 Car Loan Application (Microservices)
-- Loan processing workflow
-- Kafka for async communication
-- MySQL database
-- Real-world banking flow simulation
+### 🚗 Car Loan Application (Backend System)
+**Tech:** Spring Boot, Microservices, Kafka, MySQL  
+
+✔ Loan eligibility flow  
+✔ Microservice communication  
+✔ Event-driven architecture (Kafka – basic understanding)
 
 ---
 
 ### 🤖 AI Loan Eligibility Agent
-- Machine Learning based decision system
-- Java + Spring Boot backend
-- Automated eligibility prediction
+**Tech:** Java, Spring Boot, Machine Learning  
+
+✔ Rule-based + ML-assisted eligibility checks  
+✔ REST API integration
 
 ---
 
 ### 💬 AI Customer Support Chatbot
-- NLP-based chatbot
-- REST API integration
-- Real-time customer query handling
+**Tech:** NLP, REST APIs  
+
+✔ Automated customer query handling  
+✔ API-based chatbot flow
 
 ---
 
-## 🛠 Languages & Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35"/>
-</p>
-
----
-
-## 📊 Coding Practice
-
-- 🧩 **LeetCode:**  
+## 🧪 Practice & Problem Solving
+- 📘 **LeetCode Profile:**  
   👉 https://leetcode.com/u/RajeshPatil2/
+
+- Strong focus on:
+  - Java fundamentals
+  - Collections
+  - OOP concepts
+  - Backend logic
 
 ---
 
 ## 🌐 Connect With Me
-
 <p align="left">
   <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:rajeshpatil2846@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
