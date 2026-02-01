@@ -1,117 +1,129 @@
 <p align="center">
-  <a href="https://leetcode.com/u/RajeshPatil2/" target="_blank">
-    <img width="90%" src="https://camo.githubusercontent.com/d431d106a34c9bc50ca099be51c0a53229969bf7a38338cadc0446b654e4bedc/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f666f726d61743a776562702f312a797730546e686541474e2d4c506e654461546c6178772e676966"/>
+  <a href="https://leetcode.com/u/RajeshPatil2/">
+    <img src="https://img.shields.io/badge/LeetCode-RajeshPatil2-orange?style=flat-square&logo=leetcode"/>
   </a>
 </p>
 
 <h2 align="center">Hi 👋, I'm Rajesh Patil</h2>
-<h4 align="center">Backend & Full-Stack Developer | Java • Spring Boot • Microservices</h4>
+<h4 align="center">Java Backend & Full-Stack Developer | Spring Boot | Microservices</h4>
+
+<p align="center">
+  📍 India 🇮🇳 &nbsp; | &nbsp; 💻 Backend-Focused Developer &nbsp; | &nbsp; 🚀 Open to Opportunities
+</p>
 
 ---
 
-## 👨‍💻 About Me
-- Backend-focused developer with strong fundamentals in **Java & Spring Boot**
-- Hands-on experience building **real-world microservices projects**
-- Interested in **Microservices, REST APIs, Security, and System Design**
-- Comfortable with **end-to-end backend flow** (Controller → Service → DB → Integration)
+## 👨‍💻 Professional Summary
+Backend-focused developer with strong hands-on experience in **Java, Spring Boot, REST APIs, and Microservices**.  
+Comfortable building **real-world backend systems** such as authentication, order management, payment flows, and API gateways.  
+Actively improving **DSA, system design, and clean coding practices**.
 
 ---
 
-## 🛠 Tech Stack
-**Backend**
-- Java, Spring Boot, Spring Security
-- REST APIs, Microservices Architecture
-- JWT Authentication, Validation, Exception Handling
+## 🧰 Technical Skills
 
-**Frontend**
-- Angular, HTML, CSS, Bootstrap
+### 🔹 Backend
+- Java, Collections, OOPs, Multithreading  
+- Spring Boot, Spring MVC, Spring Security  
+- REST APIs, JWT Authentication  
+- Microservices Architecture  
+- Feign Client, API Gateway  
 
-**Database**
-- MySQL, PostgreSQL
-- Hibernate / JPA
+### 🔹 Frontend
+- Angular (Basics)
+- HTML, CSS, Bootstrap  
 
-**Tools**
-- Git & GitHub
-- Postman
-- Maven
-- IntelliJ / Eclipse
+### 🔹 Database
+- MySQL
+- PostgreSQL  
+- Hibernate / JPA  
 
----
-
-## 🚀 Major Projects
-
-### 🍔 Zomato-Style Food Delivery Backend (Microservices)
-**Tech:** Spring Boot, REST APIs, MySQL, Feign Client, API Gateway  
-
-✔ Implemented **Order Service** with complete business flow  
-✔ Internal service-to-service communication using **Feign Client**  
-✔ API Gateway used for **external client routing**  
-✔ Clean layered architecture (Controller → Service → Repository)
-
-**Microservices Structure**
-- User Service  
-- Restaurant Service  
-- **Order Service (Implemented)**  
-- Delivery Service  
-- Payment Service  
-- Notification Service  
-- API Gateway  
-
-📌 Focus: Backend logic, integration, scalability
+### 🔹 Tools & Platforms
+- Eclipse, STS, VS Code  
+- Git & GitHub  
+- Postman  
+- Jira  
 
 ---
 
-### 🚗 Car Loan Application (Backend System)
-**Tech:** Spring Boot, Microservices, Kafka, MySQL  
+## 🚀 Key Projects
 
-✔ Loan eligibility flow  
-✔ Microservice communication  
-✔ Event-driven architecture (Kafka – basic understanding)
+### 🍽 Zomato-Style Microservices Application
+**Architecture:** Spring Boot Microservices  
+
+| Service | Status |
+|-------|--------|
+| Order Service | ✅ Implemented |
+| User Service | ⏳ In Progress |
+| Restaurant Service | ⏳ Planned |
+| Delivery Service | ⏳ Planned |
+| Payment Service | ⏳ Planned |
+| Notification Service | ⏳ Planned |
+| API Gateway | ✅ Implemented |
+
+**Features Implemented**
+- Order placement flow  
+- API Gateway routing  
+- Inter-service communication using Feign Client  
+- MySQL database integration  
+
+---
+
+### 🚗 Car Loan Application (Microservices)
+- Spring Boot REST APIs  
+- Kafka (Basics)  
+- MySQL  
+- Loan workflow handling  
 
 ---
 
 ### 🤖 AI Loan Eligibility Agent
-**Tech:** Java, Spring Boot, Machine Learning  
-
-✔ Rule-based + ML-assisted eligibility checks  
-✔ REST API integration
-
----
-
-### 💬 AI Customer Support Chatbot
-**Tech:** NLP, REST APIs  
-
-✔ Automated customer query handling  
-✔ API-based chatbot flow
+- Machine Learning logic  
+- Java + Spring Boot integration  
+- Rule-based decision engine  
 
 ---
 
-## 🧪 Practice & Problem Solving
-- 📘 **LeetCode Profile:**  
-  👉 https://leetcode.com/u/RajeshPatil2/
+## 🧠 Problem Solving
+- Active on **LeetCode**
+- Focus on Arrays, Strings, Recursion, HashMap, Logic Problems  
 
-- Strong focus on:
-  - Java fundamentals
-  - Collections
-  - OOP concepts
-  - Backend logic
+🔗 **LeetCode Profile:**  
+👉 https://leetcode.com/u/RajeshPatil2/
+
+---
+
+## 🛠 Languages & Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="26"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="26"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="26"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="26"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="26"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="26"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="26"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=flat-square&logo=linkedin"/>
   </a>
   <a href="mailto:rajeshpatil2846@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img height="260"
-  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
-  alt="Backend Developer Working"/>
+  <img height="230" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 </p>
