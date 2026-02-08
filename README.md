@@ -14,7 +14,7 @@
 <h4 align="center">Java Backend & Full-Stack Developer | Spring Boot | Microservices</h4>
 
 <p align="center">
-  📍 India 🇮🇳 &nbsp; | &nbsp; 💻 Backend-Focused Developer &nbsp; | &nbsp; 🚀 Open to Opportunities
+  📍 India 🇮🇳 &nbsp; | &nbsp; 💻 Backend-Focused Developer &nbsp; | &nbsp; 🚀 Open to Backend Opportunities
 </p>
 
 ---
@@ -36,7 +36,7 @@ Actively improving **DSA, system design, and clean coding practices**.
 - Feign Client, API Gateway  
 
 ### 🔹 Frontend
-- Angular (Basics)
+- Angular
 - HTML, CSS, Bootstrap  
 
 ### 🔹 Database
@@ -57,15 +57,14 @@ Actively improving **DSA, system design, and clean coding practices**.
 ### 🍽 Zomato-Style Microservices Application
 **Architecture:** Spring Boot Microservices  
 
-| Service | Status |
-|-------|--------|
-| Order Service | ✅ Implemented |
-| User Service | ⏳ In Progress |
-| Restaurant Service | ⏳ Planned |
-| Delivery Service | ⏳ Planned |
-| Payment Service | ⏳ Planned |
-| Notification Service | ⏳ Planned |
-| API Gateway | ✅ Implemented |
+#### ✅ Services Implemented
+- Order Service  
+- User Service  
+- Restaurant Service  
+- Delivery Service  
+- Payment Service  
+- Notification Service  
+- API Gateway
 
 **Features Implemented**
 - Order placement flow  
